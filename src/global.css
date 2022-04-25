@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Manrope', sans-serif;
+}
+
+body {
+  background-color: #212226;
+  color:#E0DEDE;
+  padding: 2rem;
+}
