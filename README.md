@@ -14,10 +14,12 @@
 
 ### Desktop
 ![home page desktop](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movies-desktop.png?raw=true)
+
 ![sinopse desktop](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movie-desktop.png?raw=true)
 
 ### Mobile
 ![home page mobile](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movies-mobile.png?raw=true)
+
 ![sinopse mobile](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movie-mobile.png?raw=true)
 
 
