@@ -1,8 +1,34 @@
-# Getting Started with Create React App
+# :film_projector: API filmes :movie_camera:
+
+:pushpin: The API filmes was made with the intention to learn how to consume an API in React. The project is a list of popular movies. Clicking on a movie opens a movie details page. Finally, there is a button to go back to the home page.
+
+:pushpin: Configured the application routes - the main route (listed all movies) and the detail route (listed an individual movie with its details).
+
+:pushpin: Consumed the [MovieDB API](https://www.themoviedb.org/) using fetch.
+
+:pushpin: Styled the details page for a given movie and consumed the API again to return those details.
+
+:pushpin: Responsive.
+
+## Preview :smile:
+
+### Desktop
+![home page desktop](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movies-desktop.png?raw=true)
+![sinopse desktop](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movie-desktop.png?raw=true)
+
+### Mobile
+![home page mobile](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movies-mobile.png?raw=true)
+![sinopse mobile](https://github.com/RaissaMoreira/API-filmes_reactjs/blob/main/src/assets/movie-mobile.png?raw=true)
+
+
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
